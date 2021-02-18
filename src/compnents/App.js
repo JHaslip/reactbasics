@@ -1,15 +1,18 @@
-import React from 'react'
+import React from "react"
+import CountButton from "./CountButton"
 
 const App = () => {
     const myItem = "jared"
   
     return (
-      <ul>
-        <li>Item1</li>
-        <li>Item2 {myItem}</li>
-        <li>{myItem.toUpperCase()}</li>
-      </ul>
+      <div>
+        <ul>
+          <li>item1 asd</li>
+          <li>item255 {myItem}</li>
+          <li>{myItem.toUpperCase()}</li>
+        </ul>
+      </div>
     )
   }
 
-  export default App
+  export default CountButton
