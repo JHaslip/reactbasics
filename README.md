@@ -1,4 +1,4 @@
-# This was merely a test project, for React with other library dependencies.
+# Playing around in Material UI and other react libraries.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
