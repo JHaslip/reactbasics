@@ -1,4 +1,4 @@
-# Playing around in Material UI and other react libraries.
+# Playing around in Material UI and other react libraries
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
